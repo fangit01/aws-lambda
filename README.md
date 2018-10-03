@@ -1,5 +1,5 @@
 # aws-lambda
-lambda function to connect to dynamoDB
+lambda functions to connect to dynamoDB
 
 
 ## blog-create-a-post.js
