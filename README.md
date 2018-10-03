@@ -1,5 +1,5 @@
 # aws-lambda
-lambda functions to connect to dynamoDB
+lambda functions to connect to dynamoDB, use with aws api gateway to build a api endpoint
 
 
 ## blog-GET-post.js
