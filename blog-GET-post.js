@@ -37,6 +37,7 @@ exports.handler =  (event,content,callback) => {
                Key:{
                    "PostID":{
                        S:"fdd94720-c63d-11e8-af99-b94de5bf5f2d"
+                          // hard coded id here, can use url param as id if wanted
                    }
                },
                TableName:'myFirstDynamoDb'
