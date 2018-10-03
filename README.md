@@ -11,7 +11,7 @@ to put an item into dynamoDB
 
 POST method data required fields: 
 
-title: post title
+title: post title 
 content : post content
 ```
 {
