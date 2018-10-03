@@ -2,7 +2,7 @@
 lambda functions to connect to dynamoDB
 
 
-## blog-create-a-post.js
+## blog-GET-post.js
 to fetch all posts or single post from dynamoDB
 
 
